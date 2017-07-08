@@ -1,0 +1,4 @@
+.idea/
+spark-vavr-example.iml
+target/
+dependency-reduced-pom.xml
